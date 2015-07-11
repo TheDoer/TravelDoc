@@ -6,13 +6,13 @@
       <br/><br/>
      <div class="ui teal segment">
 
-      <p><h3>Find a Professional nearest Doctor, Clinic and Medical Practioners. </h3></p>
+      <p><h3>Find a Professional nearest Doctor, Clinic and get Help now. </h3></p>
     </div>
       
 <div class="ui teal segment">
 <form method="POST" action="">
 <p><strong>Find a doctor you love.
-Get the care you need. It's FREE!</strong></p>
+It's FREE!</strong></p>
 
 <div class="ui form segment">
   
@@ -48,12 +48,19 @@ Get the care you need. It's FREE!</strong></p>
   <div class="item" data-value="Bulawayo"></i>Bulawayo</div>
   <div class="item" data-value="Masvingo"></i>Masvingo</div>
   <div class="item" data-value="Gweru"></i>Gweru</div>
-  <div class="item" data-value="BeitBridge"></i>BeitBridge</div>
+  <div class="item" data-value="BeitBridge"></i>Beitbridge</div>
   <div class="item" data-value="Gwanda"></i>Gwanda</div>
   <div class="item" data-value="Lupane"></i>Lupane</div>
   <div class="item" data-value="Kwekwe"></i>Kwekwe</div>
   <div class="item" data-value="Bindura"></i>Bindura</div>
   <div class="item" data-value="Chinhoyi"></i>Chinhoyi</div>
+  <div class="item" data-value="Kwekwe"></i>Kwekwe</div>
+    <div class="item" data-value="Chiredzi"></i>Chiredzi</div>
+      <div class="item" data-value="Vicfalls"></i>Victoria Falls</div>
+        <div class="item" data-value="Marondera"></i>Marondera</div>
+          <div class="item" data-value="Gwanda"></i>Gwanda</div>
+            <div class="item" data-value="Plumtree"></i>Plumtree</div>
+              <div class="item" data-value="Chivhu"></i>Chivhu</div>
   
 </div>
 </div>

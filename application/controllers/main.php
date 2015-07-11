@@ -10,10 +10,10 @@ class Main extends CI_Controller {
 		$this->load->view('include/template', $data);
 	}
 
-	 public function team()
+	 public function sign()
 
 	{
-		$data['main_content'] = "Team";
+		$data['main_content'] = "sign";
 		$this->load->view('include/template', $data);
 	}
 
